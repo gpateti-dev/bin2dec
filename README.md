@@ -17,7 +17,7 @@ restricciones:
 -   [ ] El usuario visualiza el resultado en un solo campo de salida, el cual contiene el equivalente
     decimal del número binario ingresado.
     
-# Notas generales
+## Notas generales
 
 -   Todos los nombres de variables, funciones, etc. en el código deben estar en inglés.
 -   Los comentarios pueden estar en español.
